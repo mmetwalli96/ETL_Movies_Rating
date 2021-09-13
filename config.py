@@ -1,1 +1,0 @@
-db_password = 'Meto_2520'
