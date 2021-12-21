@@ -1,4 +1,8 @@
-# Porject Tasks
+# Project Overview
+
+Prepare a dataset for a hackathon about predicting movies that will gain popularity onces it is hosted on a streaming service. Data will be gathered from Wikipedia and Kaggle, then they will be combined and saved on PostgreSQL database so that the hackathon participants have a nice, clean dataset to use.
+
+# Project Tasks
 
 -  Write a function that reads in the three data files and creates three separate DataFrames.
 -  Extract and transform the Wikipedia data to merge it with the Kaggle metadata. While extracting the IMDb IDs using a regular expression string and dropping duplicates, use a try-except block to catch errors.
